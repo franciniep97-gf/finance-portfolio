@@ -1,4 +1,3 @@
-```markdown
 # PROJECT BRIEF — SALES DATA CLEANING
 
 ## Objective
@@ -29,5 +28,4 @@ The discount column had values stored incorrectly as whole numbers instead of de
 ## Insights from Clean Data
 - **Costa Rica** had the highest order volume (40%) but the lowest average discount (2.1%)  
 - **Panama** had the lowest average shipping cost ($6.20)  
-- **Top customers by volume:** Diego Morales and Raul Aguilar (4 units each)  
-```
+- **Top customers by volume:** Diego Morales and Raul Aguilar (4 units each) 
