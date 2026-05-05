@@ -38,8 +38,9 @@ Automatically classifies each product as **OK, CRITICAL, or STOCKOUT** and calcu
 ---
 
 ## 🛠️ Skills
-- Excel (advanced formulas, data analysis)
-- Power Query (data cleaning & transformation)
-- Google Sheets
-- Data cleaning & validation
-- Financial analysis
+
+			
+<img width="296" height="181" alt="image" src="https://github.com/user-attachments/assets/709277da-8bf9-4d58-a2a4-27e2d2229ffc" />
+			
+
+
