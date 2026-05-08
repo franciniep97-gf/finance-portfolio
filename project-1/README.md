@@ -29,6 +29,12 @@ Analyze Q1 sales data to understand which products are actually making money and
 
 ## 💡 Business Impact
 Identified over **$150 in recoverable profit** through two specific policy changes:
-- Reallocating marketing spend  
-- Adjusting shipping thresholds  
+- Reallocating marketing spend
+- Adjusting shipping thresholds
+
+![Project Screenshot](profitability-analysis.png)
+
+<img width="1200" height="627" alt="profitability-" src="https://github.com/user-attachments/assets/609c61a0-b54b-4a88-a0d6-64b75bb285d3" />
+
+
 
