@@ -43,3 +43,6 @@ Catching this required understanding what the data *should* look like, not just 
   * Diego Morales (4 units)
   * Raul Aguilar (4 units)
 
+![Project Screenshot](sales-data-cleaning.png)
+
+<img width="1200" height="627" alt="sales-data-cleaning" src="https://github.com/user-attachments/assets/7879888b-93af-4c32-a1f7-ec635100b0a1" />
