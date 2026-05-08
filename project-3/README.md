@@ -30,4 +30,8 @@ Track real inventory levels for a 10-product fashion retailer, combining warehou
   * Bolso Cuero Café
 * 3 products in **CRITIQUE** status requiring urgent reorder
 * 📌 Immediate reorder need identified: **146 units** across critical products
+  
+![Project Screenshot](inventory-status-tracker.png)
+
+<img width="739" height="284" alt="inventory-status-tracker" src="https://github.com/user-attachments/assets/1b3d21d0-ca64-487d-a4c4-f1c4fafa5041" />
 
