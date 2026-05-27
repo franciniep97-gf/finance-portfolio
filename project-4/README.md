@@ -69,4 +69,6 @@ Build an interactive dashboard to visualize Q1 sales performance across products
 
 The dashboard highlights product and country-level performance trends, helping identify growth opportunities, underperforming markets, and areas requiring further business investigation.
 
+![Project Screenshot](dashboard.png)
+
 <img width="748" height="438" alt="image" src="https://github.com/user-attachments/assets/5c49bc42-3a98-432c-a7e7-3a2df862a864" />
