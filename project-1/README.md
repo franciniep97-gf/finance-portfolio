@@ -1,40 +1,74 @@
-# 📊 Project Brief — Product Profitability Analysis
+# 📊 PROJECT BRIEF — Q1 Performance Dashboard
 
 ## 🎯 Objective
-Analyze Q1 sales data to understand which products are actually making money and which ones are eating into margins, using the clean dataset from the previous project.
+
+Build an interactive dashboard to visualize Q1 sales performance across products, categories, and countries, and identify actionable business insights.
+
+---
 
 ## 🛠️ Tools Used
-- Excel  
-- Power Query  
+
+- Excel
+- Pivot Tables
+- Charts
+
+---
 
 ## ⚙️ Process
-1. Merged the clean sales table with a cost structure table in Power Query (COGS, marketing costs, warehouse costs)  
-2. Calculated revenue, total costs, profit, and margin % per order in Excel  
-3. Built a summary table using `SUMIF` and `AVERAGEIF` to aggregate by product  
-4. Identified top 5 products by profit using `LARGE`  
-5. Used `XLOOKUP` to find the highest-margin product  
-6. Used `FILTER` with `IFERROR` to flag problematic products  
+
+- Connected clean sales data to pivot tables for dynamic filtering.
+- Built KPI cards:
+  - Total Revenue
+  - Total Profit
+  - Average Order Value
+  - Total Orders
+- Created visualizations:
+  - Revenue per Month
+  - Top 5 Products
+  - Revenue by Country
+  - Margin % by Category
+- Added slicers for:
+  - Month
+  - Product
+  - Category
+  - Country
+- Identified key business insights from the data.
+
+---
 
 ## 📈 Key Metrics
-- **Total Revenue:** $2,603  
-- **Total Profit:** $933  
-- **Average Margin:** 35.4%  
-- **Highest Margin Product:** Polo Manga Larga (39%)  
-- **Most Profitable Product:** Pantalón Denim Azul ($125.37)  
 
-## 🔍 Insights
-- **Chaqueta Denim Clásica** has the highest marketing cost per unit ($7) but only sold 3 units. Budget is being wasted on a low-volume product.  
-- **Camiseta Básica Blanca** moves the most volume (11 units) but has a below-average margin, likely due to free shipping absorbing profit. A minimum order value could fix this.  
-- **Polo Manga Larga** has the best margin and low discounting. It's the strongest candidate for scaling with paid marketing.  
+| Metric | Value |
+|----------|----------|
+| Total Revenue | $2,598.95 |
+| Total Profit | $934.40 |
+| Average Order Value | $64.97 |
+| Total Orders | 40 |
 
-## 💡 Business Impact
-Identified over **$150 in recoverable profit** through two specific policy changes:
-- Reallocating marketing spend
-- Adjusting shipping thresholds
+---
 
-![Project Screenshot](profitability-analysis.png)
+## 💡 Insights
 
-<img width="1200" height="627" alt="profitability-" src="https://github.com/user-attachments/assets/609c61a0-b54b-4a88-a0d6-64b75bb285d3" />
+### 🇨🇷 Costa Rica
 
+- **Pantalón Denim Azul** dominated sales in January, representing **56% of revenue ($194.94)**.
+- Sales dropped **67% in February**, suggesting a need for further investigation.
 
+### 🇲🇽 Mexico
 
+- Strong growth from February to March, driven primarily by **dresses and tops**.
+
+### 🇨🇴 Colombia
+
+- **Vestido Midi Floral** recorded **zero sales**, despite strong performance in Mexico.
+- This may represent an opportunity to test and expand this product in the Colombian market.
+
+---
+
+## ✅ Conclusion
+
+The dashboard highlights product and country-level performance trends, helping identify growth opportunities, underperforming markets, and areas requiring further business investigation.
+
+![Project Screenshot](dashboard.png)
+
+<img width="748" height="438" alt="image" src="https://github.com/user-attachments/assets/5c49bc42-3a98-432c-a7e7-3a2df862a864" />
