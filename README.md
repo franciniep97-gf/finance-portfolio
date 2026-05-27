@@ -50,7 +50,4 @@ Key insight: Identified a market opportunity in Colombia — Vestido Midi Floral
 ## 🛠️ Skills
 
 			
-<img width="296" height="181" alt="image" src="https://github.com/user-attachments/assets/709277da-8bf9-4d58-a2a4-27e2d2229ffc" />
-			
-
-
+<img width="254" height="222" alt="image" src="https://github.com/user-attachments/assets/4beceff6-4ecb-479a-86d2-f4528ed5e607" />
