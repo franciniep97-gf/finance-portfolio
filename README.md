@@ -14,7 +14,7 @@ Built an interactive dashboard to visualize Q1 sales performance across products
 
 Key insight: Identified a market opportunity in Colombia — Vestido Midi Floral shows strong performance in Mexico but zero sales in Colombia, suggesting untapped potential.
 
-→ [View project](./project-4)
+→ [View project](./project-1)
 
 
 ---
@@ -25,7 +25,7 @@ Key insight: Identified a market opportunity in Colombia — Vestido Midi Floral
 Merged sales and cost data to calculate revenue, COGS, marketing costs, warehouse costs, profit, and margin % per product.  
 Built a summary report and identified **$150+ in recoverable profit** through two specific recommendations.
 
-→ [View project](./project-1)
+→ [View project](./project-2)
 
 
 ---
@@ -36,7 +36,7 @@ Built a summary report and identified **$150+ in recoverable profit** through tw
 Cleaned a Q1 sales dataset with 4 different date formats, duplicate records, inconsistent product names, and incorrectly stored percentage values.  
 Delivered **40 clean records with 0 errors**.
 
-→ [View project](./project-2)
+→ [View project](./project-3)
 
 
 ---
@@ -47,7 +47,7 @@ Delivered **40 clean records with 0 errors**.
 Built an inventory control spreadsheet that combines warehouse stock and units in transit to calculate real inventory levels.  
 Automatically classifies each product as **OK, CRITICAL, or STOCKOUT** and calculates exact reorder quantities.
 
-→ [View project](./project-3)
+→ [View project](./project-4)
 
 
 ---
